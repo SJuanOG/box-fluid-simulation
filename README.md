@@ -45,7 +45,7 @@ Or simply execute the file *execution.sh*.
 
 ## Configuration
 
-You can adjust the simulation parameters in the `main` function of `main.cpp`, such as the grid size, diffusion, viscosity, and framerate.
+You can adjust the simulation parameters in the `main` function of `Fluid.cpp`, such as the grid size, diffusion, viscosity, and framerate.
 
 
 ## Acknowledgments
